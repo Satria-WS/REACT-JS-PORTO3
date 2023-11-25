@@ -18,9 +18,9 @@ const Experience = () => {
           icon={<School />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random High School , Random Place , Random state
+            SMPIT Pesantren Nururrahman Boarding School
           </h3>
-          <p>High School Diplomas</p>
+          <p>Junior High School</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -30,14 +30,25 @@ const Experience = () => {
           icon={<School />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Cool University, Vancouver, British Columbia
+          SMAIT Pesantren Nururrahman Boarding School
           </h3>
 
-          <h4 className="vertical-timeline-element-subtitle">
+          {/* <h4 className="vertical-timeline-element-subtitle">
             Bachelor's Degree
-          </h4>
+          </h4> */}
 
-          <p> Computer Science</p>
+          <p>Senior High School</p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="2010-2014"
+          iconStyle={{ background: "#3e497a", color: "#fff" }}
+          icon={<School />}
+        >
+          <h3 className="vertical-timeline-element-title">
+          Trisakti University of Petroleum Engineering
+          </h3>
+          <p>Bachelor degree</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
@@ -46,12 +57,12 @@ const Experience = () => {
           icon={<Work />}
         >
           <h3 className="vertical-timeline-element-title">
-            Back End Engineer - Google
+            PT IFCA Property365 Indonesia
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
+            {/* Frontend */}
           </h4>
-          <p>Developed the backend infrastructure for 3 projects.</p>
+          <p>As a front-end developer, develop websites for two projects with tech React & Angular</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -61,14 +72,12 @@ const Experience = () => {
           icon={<Work />}
         >
           <h3 className="vertical-timeline-element-title">
-            Full Stack Engineer - Twitch
-          </h3>
+            Vendor Kalbe           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
+           {/* Backend */}
           </h4>
           <p>
-            Helped the team launch 2 major features by working both in the front
-            end and back end.
+          As a Backend Developer , develop a server-side web application using a REST API
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>

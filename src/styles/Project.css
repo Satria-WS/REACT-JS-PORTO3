@@ -7,6 +7,10 @@
   flex-direction: column;
 }
 
+.projects h1:nth-child(1) {
+ margin-top: 10px;
+}
+
 .projects .projectTitle {
   text-align: center;
   color: #3e497a;

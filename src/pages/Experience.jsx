@@ -62,7 +62,7 @@ const Experience = () => {
           <h4 className="vertical-timeline-element-subtitle">
             {/* Frontend */}
           </h4>
-          <p>As a front-end developer, develop websites for two projects with tech React & Angular</p>
+          <p>As a Front End developer, develop a websites with React</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement

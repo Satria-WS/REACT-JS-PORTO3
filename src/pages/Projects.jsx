@@ -2,7 +2,6 @@ import React from "react";
 import "../styles/Project.css";
 import ProjectItem from "../components/ProjectItem";
 
-import pro1 from "../assets/anime.jpg";
 import "../styles/Project.css";
 import { projectList } from "../helpers/ProjectList";
 

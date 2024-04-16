@@ -71,12 +71,17 @@
   list-style: none;
   width: 60%;
 }
+.skills .item {
+  margin: 50px 0;
+}
 
 
 .list span {
   font-size: 20px;
 }
-
+.item span {
+  letter-spacing: 4px;
+}
 
 @media only screen and (max-width: 600px) {
   .about h2 {
@@ -94,13 +99,18 @@
     line-height: 3rem;
   }
 
-  .skills {
-    text-align: center;
-  }
-
   .list {
     padding: 0;
+ 
   }
+
+
+  .skills {
+    text-align: center;
+
+  }
+
+
   .skills h2 {
     font-size: 30px;
   }

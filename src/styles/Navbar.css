@@ -41,6 +41,7 @@
 
 #open {
   height: 100vh;
+
 }
 
 #open .links {
@@ -52,11 +53,13 @@
 #open a {
   width: 100%;
   text-align: center;
+
 }
 
 @media only screen and (max-width: 900px) {
   .navbar a {
     width: 70px;
+    margin-right: 3.5rem;
   }
 }
 

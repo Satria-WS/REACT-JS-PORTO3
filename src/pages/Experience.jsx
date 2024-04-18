@@ -25,12 +25,12 @@ const Experience = () => {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2014 - 2018"
+          date="2008 - 2010"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<School />}
         >
           <h3 className="vertical-timeline-element-title">
-          SMAIT Pesantren Nururrahman Boarding School
+            SMAIT Pesantren Nururrahman Boarding School
           </h3>
 
           {/* <h4 className="vertical-timeline-element-subtitle">
@@ -41,18 +41,18 @@ const Experience = () => {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2010-2014"
+          date="2011-2018"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<School />}
         >
           <h3 className="vertical-timeline-element-title">
-          Trisakti University of Petroleum Engineering
+            Trisakti University of Petroleum Engineering
           </h3>
           <p>Bachelor degree</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2018 - 2020"
+          date="2022 - 2023"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<Work />}
         >
@@ -67,17 +67,17 @@ const Experience = () => {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2020 - present"
+          date="2023 - present"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<Work />}
         >
-          <h3 className="vertical-timeline-element-title">
-            Vendor Kalbe           </h3>
+          <h3 className="vertical-timeline-element-title">Freelance </h3>
           <h4 className="vertical-timeline-element-subtitle">
-           {/* Backend */}
+            {/* Backend */}
           </h4>
           <p>
-          As a Backend Developer , develop a server-side web application using a REST API
+            As a Fullstack developer , working on a project for a non profit
+            organization
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>

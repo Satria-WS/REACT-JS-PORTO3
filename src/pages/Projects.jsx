@@ -11,7 +11,7 @@ const Projects = () => {
       <h1>My Personal Projects</h1>
       <div className="projectList">
         {projectList.map((item , id) => {
-          return <ProjectItem key={id} name={item.name} image={item.image} id={id} />;
+          return <ProjectItem key={id} id={id} name={item.name} image={item.image} tech={item.tech} linkWeb={item.link.web} linkGit={item.link.git} />;
         })}
       </div>
     </div>

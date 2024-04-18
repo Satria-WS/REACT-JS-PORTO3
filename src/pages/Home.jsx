@@ -9,15 +9,27 @@ const Home = () => {
   return (
     <div className="home">
       <div className="about">
-        <h2>Hi Hello world , my name tole</h2>
+        <h2>Hi Hello world , my name Satria</h2>
         <div className="prompt">
           <p>
-            A software developer gak niat passion want to leaving job and
-            nganggur
+            Basically I am a Petroleum Engineer, and today still active working
+            on a project as web developer
           </p>
-          <LinkedIn />
-          <Email />
-          <GitHub />
+
+          <div style={{cursor:"pointer"}}>
+            <span onClick={(event) => {
+              event.preventDefault();
+              window.open("https://www.linkedin.com/in/satria-wibowo-subiantoro", "_blank");
+            }}>
+              <LinkedIn />
+            </span>
+            <span onClick={(event) => {
+                event.preventDefault();
+              window.open("https://github.com/Satria-WS", "_blank");
+            }}>
+              <GitHub />
+            </span>
+          </div>
         </div>
       </div>
       <div className="skills">
@@ -26,13 +38,14 @@ const Home = () => {
           <li className="item">
             <h2>Front-end</h2>
             <span>
-            HTML / CSS / JS , TypeScript ,  React-JS, , Material-UI , Tailwind
+              HTML / CSS / JS , TypeScript , React-JS, , Material-UI , Tailwind
             </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJs , Rest API , Express , mysql , Prisma , Redis , Docker , Swagger
+              NodeJs , Rest API , Express , mysql , Prisma , Redis , Docker ,
+              Swagger
             </span>
           </li>
           {/* <li className="item">

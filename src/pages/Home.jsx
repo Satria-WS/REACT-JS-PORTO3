@@ -1,5 +1,5 @@
 import React from "react";
-import { Email, GitHub, LinkedIn } from "@material-ui/icons";
+import {  GitHub, LinkedIn } from "@material-ui/icons";
 import "../styles/Home.css";
 // import LinkedInIcon from "@material-ui/icons/LinkedIn";
 // import EmailIcon from "@material-ui/icons/Email";

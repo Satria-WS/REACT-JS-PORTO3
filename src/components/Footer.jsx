@@ -1,5 +1,5 @@
 import React from 'react';
-import { Facebook, Instagram, LinkedIn, Twitter } from '@material-ui/icons';
+// import { Facebook, Instagram, LinkedIn, Twitter } from '@material-ui/icons';
 import "../styles/Footer.css";
 const date = new Date().getFullYear();
 const Footer = () => {

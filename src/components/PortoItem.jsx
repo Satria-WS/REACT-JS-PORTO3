@@ -1,5 +1,5 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 import { GitHub } from "@material-ui/icons";
 
 const PortoItem = ({ id, image, name, tech, linkWeb, linkGit }) => {
@@ -8,7 +8,7 @@ const PortoItem = ({ id, image, name, tech, linkWeb, linkGit }) => {
     backgroundImage: `url(${image})`,
   };
 
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
   // console.log('navigate',navigate)
 
   return (

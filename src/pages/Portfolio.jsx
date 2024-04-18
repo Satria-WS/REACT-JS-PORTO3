@@ -9,7 +9,7 @@ const Portfolio = () => {
       <h1>My Personal Portfolio</h1>
       <div className="projectList">
         {portoList.map((item , id) => {
-          return <PortoItem key={id} name={item.name} image={item.image} id={id} />;
+          return <PortoItem key={id} name={item.name} image={item.image} tech={item.tech} id={id} />;
         })}
       </div>
     </div>

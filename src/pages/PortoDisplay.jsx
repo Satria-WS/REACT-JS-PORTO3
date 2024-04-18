@@ -2,7 +2,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import { portoList } from "../helpers/PortoList";
 import "../styles/ProjectDisplay.css";
-import { GitHub } from "@material-ui/icons";
+
 
 const PortoDisplay = () => {
   // const { id } = useParams();

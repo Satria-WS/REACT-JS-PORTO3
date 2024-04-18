@@ -11,33 +11,41 @@ export const portoList = [
     name: "My bio",
     image: porto_myCode,
     tech: "React, MaterialUI",
+    link: "https://mycoder-portofolio.vercel.app/#home"
   },
 
   {
-    name: "TmDb_movie",
+    name: "Tmdb Movie",
     image: porto_Tmbdb,
-    tech: "React , Nextjs , Tailwind",
+    tech: "Nextjs , Tailwind",
+    link: "https://tmdb-ver1-movie.netlify.app/"
   },
 
   {
-    name: "Web_service",
+    name: "Web Service",
     image: porto_WebService,
     tech: "Html , css",
+    link: "https://service-web-page.netlify.app/"
   },
   {
-    name: "Landing Page Product ",
+    // Landing Page Product
+    name: "Landing Page",
     image: porto_landingPage_2,
     tech: "Html , css",
+    link: "https://satria-ws.github.io/ProductLanding-sample/"
   },
   {
-    name: "Landing Page Headphone",
+    // Landing Page Headphone
+    name: "Landing Page",
     image: porto_landingPage_1,
     tech: "Html , css , js",
+    link: "https://landing-pages-webs.netlify.app/"
   },
 
   {
-    name: "Sebat_dog",
+    name: "Pet Shop",
     image: porto_sebatDog,
     tech: "Html , css, bootstrap",
+    link: ""
   },
 ];

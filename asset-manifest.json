@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/REACT-JS-PORTO3/static/css/main.d733673e.css",
-    "main.js": "/REACT-JS-PORTO3/static/js/main.1497334d.js",
-    "static/media/galen-sagara.jpg": "/REACT-JS-PORTO3/static/media/galen-sagara.1976715f760aa3161584.jpg",
-    "static/media/Tmdb-movie.png": "/REACT-JS-PORTO3/static/media/Tmdb-movie.0f12185d50f46bbb4a7e.png",
-    "static/media/sebat-dog.png": "/REACT-JS-PORTO3/static/media/sebat-dog.4aae5a069e77f8a63849.png",
-    "static/media/landing-page-2.png": "/REACT-JS-PORTO3/static/media/landing-page-2.9340fec8174341f57918.png",
-    "static/media/landing-page-1.png": "/REACT-JS-PORTO3/static/media/landing-page-1.c3693c32ad5ab98ecc1d.png",
-    "static/media/web-service.png": "/REACT-JS-PORTO3/static/media/web-service.7c8fe8b7587877558d7b.png",
-    "static/media/myCoder-porto.png": "/REACT-JS-PORTO3/static/media/myCoder-porto.df4a4d0572cc5840a049.png",
-    "static/media/account-x.jpg": "/REACT-JS-PORTO3/static/media/account-x.162d9cc20c71e668ef22.jpg",
-    "index.html": "/REACT-JS-PORTO3/index.html",
-    "main.d733673e.css.map": "/REACT-JS-PORTO3/static/css/main.d733673e.css.map",
-    "main.1497334d.js.map": "/REACT-JS-PORTO3/static/js/main.1497334d.js.map"
+    "main.css": "/static/css/main.d733673e.css",
+    "main.js": "/static/js/main.4379fdd1.js",
+    "static/media/galen-sagara.jpg": "/static/media/galen-sagara.1976715f760aa3161584.jpg",
+    "static/media/Tmdb-movie.png": "/static/media/Tmdb-movie.0f12185d50f46bbb4a7e.png",
+    "static/media/sebat-dog.png": "/static/media/sebat-dog.4aae5a069e77f8a63849.png",
+    "static/media/landing-page-2.png": "/static/media/landing-page-2.9340fec8174341f57918.png",
+    "static/media/landing-page-1.png": "/static/media/landing-page-1.c3693c32ad5ab98ecc1d.png",
+    "static/media/web-service.png": "/static/media/web-service.7c8fe8b7587877558d7b.png",
+    "static/media/myCoder-porto.png": "/static/media/myCoder-porto.df4a4d0572cc5840a049.png",
+    "static/media/account-x.jpg": "/static/media/account-x.162d9cc20c71e668ef22.jpg",
+    "index.html": "/index.html",
+    "main.d733673e.css.map": "/static/css/main.d733673e.css.map",
+    "main.4379fdd1.js.map": "/static/js/main.4379fdd1.js.map"
   },
   "entrypoints": [
     "static/css/main.d733673e.css",
-    "static/js/main.1497334d.js"
+    "static/js/main.4379fdd1.js"
   ]
 }

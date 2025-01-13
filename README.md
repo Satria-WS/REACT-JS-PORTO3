@@ -7,5 +7,5 @@
 
 Tech: React , Tailwind , MaterialUI , emailjs , react-hot-toast , swiper
 
-Demo:  https://mycoder-portofolio.vercel.app/#home
+Demo:  https://satria-ws.github.io/REACT-JS-PORTO3
 

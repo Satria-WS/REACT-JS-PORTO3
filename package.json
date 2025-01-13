@@ -1,6 +1,7 @@
 {
   "name": "react-js-porto3",
   "version": "0.1.0",
+  "homepage": "https://satria-ws.github.io/REACT-JS-PORTO3",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -21,8 +22,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "preci":"rm-rf node_modules",
-    "ci":"yarn install --frozen-lockfile"
+    "preci": "rm-rf node_modules",
+    "ci": "yarn install --frozen-lockfile",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -41,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

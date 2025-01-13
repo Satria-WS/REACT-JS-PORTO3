@@ -11,8 +11,8 @@ import PortoDisplay from "./pages/PortoDisplay";
 
 function App() {
   return (
-    <div className=" App">
-      <Router>
+    <div className="App">
+      <Router basename="REACT-JS-PORTO3">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
